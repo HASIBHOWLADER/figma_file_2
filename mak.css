@@ -1,0 +1,936 @@
+@media only screen and (min-width: 1200px) {
+.a1st_hr{
+    margin-left: 420px;
+    margin-top: -35px;
+}
+.amico{
+    width: 475.82px;
+    height: 425.74px;
+    left: 850.25px;
+    margin-top:108.96px;
+    
+    }
+    .a2{
+      margin-top: -45px;
+     }
+     /* sarvice */
+     .sarvice{
+        background-color: #D8EBEE;
+        padding: 20px;
+     }
+  .service_boi1{
+    padding-left: 30px;
+  }
+     .service_boi_2{
+        width: 380.9px;
+        height: 395.12px;
+        left: 87px;
+        top: 1258.57px;
+        padding: 20px;
+        background:white;
+        border-radius: 16px;
+    }
+    .service_boi_2:hover{
+        box-shadow: 1px 1px 2px 2px black;
+
+    }
+.service_boi_2 img{
+    margin-left: 90px;
+}
+li.nav-item {
+    margin: 10px;
+}
+.WooCommerce{
+ margin-top: 30px;
+    font-family: 'Zen Old Mincho';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 28px;
+    color: rgba(23, 35, 39, 0.8);
+}
+.It{
+  
+height: 82.08px;
+margin-top: 11px;
+font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 26px;
+color: rgba(23, 35, 39, 0.7);
+}
+.read{
+    width: 72px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 26px;
+color: rgba(186, 104, 200, 0.8);
+flex: none;
+order: 0;
+flex-grow: 0;
+margin-top: 18.94px;
+}
+.tow{
+    margin-top: -80px;
+margin-left: 150px;
+   cursor: pointer;
+}
+
+/* explor opan......................... */
+.explor_boi2{
+    margin-top: 56.19px;
+}
+.explor{
+    background-color: #D8EBEE;
+    padding: 20px;
+}
+.explor_boi1{
+    width: 262.93px;
+    height: 49.17px;
+    margin-left: 522.15px;
+    margin-top: 154.98px;
+    background: rgba(186, 104, 200, 0.9);
+    border-radius: 30px;
+}
+.explor_boi1 p{
+    font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 28px;
+color: rgba(255, 255, 255, 0.9);
+padding: 12px 50px;
+}
+.explor_boi3{
+    width: 100%;
+}
+.development_service_3{
+
+}
+.Affordable{
+
+font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 70px;
+
+color: rgba(23, 35, 39, 0.9)
+}
+.Our{
+margin-top: 44px;
+font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 28px;
+color: rgba(31, 47, 52, 0.8);
+}
+.explor_boi_4{
+    width: 168.01px;
+height: 50.77px;
+left: 840.06px;
+margin-top: 70px;
+background: rgba(186, 104, 200, 0.9);
+border-radius: 57px;
+}
+.explor_boi_4 p{
+    font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 29px;
+padding: 10px 38px;
+color: rgba(250, 250, 250, 0.9);
+}
+/* work process opan */
+.Work{
+    margin-top: 256px;
+text-align: center;
+font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 70px;
+
+color: rgba(24, 35, 39, 0.9);
+
+}
+.Amet_minim{
+    margin-top: 26px;
+font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+text-align: center;
+color: rgba(0, 0, 0, 0.8);
+}
+/* boiiiiii opan */
+.work_ptoces{
+    padding: 20px;
+    background: #F9F5F2;
+}
+/* spa opan */
+.spa_header1{
+    width: 100%;
+}
+.spa img{
+width: 350px;
+
+}
+.spa{
+    margin-top: 111px;
+}
+.problm11{
+    position: absolute;
+margin-left: -160px;
+}
+.spa_header_2{
+    position: absolute;
+    background: #C6ECF7;
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+    margin-left: 298px;
+    margin-top: -130px;
+}
+.spa_header_boi_3{
+    margin-left: 100px;
+}
+.spa_header__boi_4{
+    position: absolute;
+    background:white;
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    margin-left: 308px;
+    margin-top: -120px;
+}
+.spa_header__boi_4 img{
+height: 50px;
+width: 50px;
+margin-left: 35px;
+margin-top: 30px;
+}
+.probml22{
+    position: absolute;
+    margin-left: -180px;
+    margin-top: -10px;
+   height: 260px;
+}
+.spa_header_boi_7{
+    background: #C6ECF7;
+    width: 180px;
+    height: 160px;
+    border-radius: 50%;
+    margin-left: 320px;
+    margin-top: -150px;
+}
+.spa_header_boi_8{
+height: 115px;
+width: 150px;
+background-color: white;
+margin-left: 330px;
+border-radius: 50%;
+margin-top: -135px;
+}
+.spa_header_boi_8 i{
+    font-size: 80px;
+    margin-left: 30px;
+    margin-top: 15px;
+}
+/* 22 */
+.spa_boi_9{
+
+}
+.problm33{
+    height: 200px;
+    margin-top: 120px;
+    transform: rotate(-15deg);
+    z-index: 2;
+}
+.ss{
+   margin-top: 170px;
+   margin-left: -120px;
+    position:absolute ;
+    z-index: 1;
+}
+.spa_boi_10{
+    background: #C6ECF7;
+    height: 170px;
+    width: 230px;
+    border-radius: 50%;
+    margin-top: -170px;
+    margin-left: 50px;
+}
+
+.spa_boi_11{
+    background-color:white;
+    height: 120px;
+    width: 160px;
+    border-radius: 50%;
+    margin-top: -145px;
+    margin-left: 80px;
+}
+.az{
+    position: absolute;
+    font-size: 50px;
+    margin-left: 130px;
+    margin-top: -80px;
+}
+.problm44{
+position: absolute;
+margin-top: 70px;
+height: 270px;
+margin-left: -20px;
+}
+.problm4{
+    position: absolute;
+    margin-left: 180px;
+    margin-top: 150px;
+}
+.spa_boi_13{
+    position: absolute;
+    height: 180px;
+    width: 210px;
+    background:#C6ECF7;
+    margin-left: 50px;
+margin-top: 130px;
+border-radius: 50%;
+}
+
+.spa_boi_14{
+    position: absolute;
+    height: 160px;
+    width: 190px;
+    background:white;
+    margin-left: 59px;
+margin-top: 140px;
+border-radius: 50%;
+}
+.spa_boi_14 i{
+    margin-top: 40px;
+    font-size: 80px;
+    margin-left: 50px;
+}
+.zero{
+    position: absolute;
+    font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 58px;
+color: rgba(24, 35, 39, 0.9);
+margin-left: 220px;
+margin-top: -30px;
+}
+.Wireframing{
+    position: absolute;
+    width: 145px;
+height: 35px;
+
+font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 35px;
+color: #172327;
+flex: none;
+order: 0;
+flex-grow: 0;
+margin-left: 130px;
+margin-top: 30px;
+}
+.Amet2{
+    position: absolute;
+    width: 229px;
+height: 66px;
+font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 22px;
+color: #1F2F34;
+flex: none;
+order: 1;
+flex-grow: 0;
+margin-top: 70px;
+margin-left: 130px;
+}
+.One_o{
+    position: absolute;
+    font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 58px;
+
+color: rgba(24, 35, 39, 0.9);
+margin-left: 420px;
+margin-top: 140px;
+}
+.Requirement{
+    position: absolute;
+    
+width: 206px;
+height: 29px;
+font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 29px;
+color: #172327;
+flex: none;
+order: 0;
+flex-grow: 0;
+margin-left: 320px;
+margin-top: 200px;
+}
+.Amet_minim2{
+    position: absolute;
+    width: 229px;
+height: 66px;
+
+font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 22px;
+color: #1F2F34;
+flex: none;
+order: 1;
+flex-grow: 0;
+margin-left: 320px;
+margin-top: 230px;
+}
+.zwss{
+    position: absolute;
+    font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 58px;
+
+color: rgba(24, 35, 39, 0.9);
+margin-left: 150px;
+    margin-top: -30px;
+    
+    
+}
+.Final_Delivery{
+    position: absolute;
+    width: 160px;
+height: 35px;
+font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 35px;
+color: #172327;
+flex: none;
+order: 0;
+flex-grow: 0;
+margin-left: 60px;
+margin-top: 20px;
+}
+.Amet_minim_3{
+    position: absolute;
+    
+width: 229px;
+height: 66px;
+
+font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 22px;
+
+color: #1F2F34;
+
+flex: none;
+order: 1;
+flex-grow: 0;
+margin-top: 50px;
+margin-left: 30px;
+}
+.klo2{
+    position: absolute;
+    font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 58px;
+
+color: rgba(24, 35, 39, 0.9);
+margin-left: 350px;
+margin-top: 120px;
+}
+.Prototype{
+    position: absolute;
+    width: 112px;
+height: 35px;
+
+font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 35px;
+/* identical to box height */
+
+
+/* Dark/Dark-1 */
+
+color: #172327;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+margin-left: 350px;
+margin-top: 180px;
+}
+.faltu{
+    position: absolute;
+    width: 229px;
+height: 66px;
+
+font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 22px;
+/* or 157% */
+
+
+/* Dark/Dark-2 */
+
+color: #1F2F34;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+margin-left: 300px;
+margin-top: 210px;
+}
+/* latest opan///////////////////////////////////////////////////////////// */
+.latest{
+    background: #E9F0EC;
+padding: 20px;
+}
+.Latest1{
+    
+font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 58px;
+text-align: center;
+padding: 20px;
+color: rgba(23, 35, 39, 0.9);
+margin-top: 270.92px;
+}
+.Amet_minim{
+    
+font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 26px;
+text-align: center;
+
+color: rgba(31, 47, 52, 0.8);
+}
+.latest_boi2{
+    width: 100%;
+}
+.Rectangle_9049{
+    margin-top: 84.87px;
+    width: 363px;
+height: 324px;
+border-radius: 16px;
+margin-left: 20.12px;
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.Rectangle_23{
+    
+    width: 363px;
+height: 324px;
+border-radius: 16px;
+
+margin-left: 22.45px;
+margin-top: 84.87px;
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.Rectangle_9048{
+    
+    width: 363px;
+height: 324px;
+border-radius: 16px;
+margin-left: 22.45px;
+margin-top: 84.87px;
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+/* boiiiiii */
+.GoBoos{
+    margin-top: 16px;
+    margin-left: 22.45px;
+    width: 86px;
+height: 35px;
+
+font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 35px;
+color: rgba(23, 35, 39, 0.9);
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.GoBoos_assists{
+    margin-left: 22.45px;
+    width: 374px;
+height: 72px;
+
+font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 24px;
+color: rgba(31, 47, 52, 0.8);
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+.g{
+    width: 163px;
+height: 34px;
+margin-left: 22.45px;
+background: #577F8E;
+}
+.g i{
+
+z-index: 2;
+margin-top: 10px;
+margin-left: 10px;
+}
+.Responsiv{
+    margin-top: -25px;
+    margin-left: 35px;
+    width: 114px;
+height: 24px;
+left: 40px;
+top: 5px;
+font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 24px;
+color: rgba(31, 47, 52, 0.8);
+}
+.gp{
+    width: 163px;
+height: 34px;
+margin-top: -32px;
+margin-left: 200px;
+background: #577F8E;
+border-radius: 4px;
+}
+.gp i{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.Page_Speed{
+    margin-top: -22px;
+    margin-left: 35px;
+    width: 114px;
+height: 24px;
+left: 40px;
+top: 5px;
+font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 24px;
+color: rgba(31, 47, 52, 0.8);
+}
+
+/* about................................... */
+.about_1{
+
+font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 35px;
+margin-left: 83px;
+margin-top: 195px;
+color: rgba(87, 127, 142, 0.9);
+}
+.hr_44{
+    width: 113.74px;
+height: 0px;
+margin-left: 70px;
+margin-top: -20px;
+border: 1px solid rgba(69, 90, 100, 0.5);
+}
+
+.A_great{
+    width: 494px;
+height: 116px;
+left: 83.65px;
+top: 4849.51px;
+margin-left: 83.65px;
+font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 900;
+font-size: 40px;
+line-height: 58px;
+color: rgba(23, 35, 39, 0.9);
+}
+.about_boo{
+    width: 100%;
+}
+.Our_motto{
+    width: 558.34px;
+height: 168px;
+left: 83.65px;
+top: 4976.51px;
+
+font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 28px;
+margin-left: 83px;
+color: rgba(31, 47, 52, 0.8);
+
+}
+.about_bou_41{
+    width: 160.4px;
+height: 41.26px;
+margin-top: 63px;
+margin-left: 83px;
+background: rgba(186, 104, 200, 0.9);
+border-radius: 40px;
+}
+.about_bou_41 p{
+    font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 28px;
+padding: 10px 25px;
+
+color: #FFFFFF;
+
+}
+.pisla{
+    position: absolute;
+    margin-top: -55px;
+    margin-left: 120px;
+    font-size: 30px;
+    color: white;
+}
+.kt img{
+    margin-top: 215px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
