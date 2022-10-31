@@ -673,6 +673,10 @@ color: rgba(31, 47, 52, 0.8);
 }
 
 /* about................................... */
+.about{
+    background: #F9F5F2;
+    padding: 20px;
+}
 .about_1{
 
 font-family: 'Zen Old Mincho';
@@ -754,59 +758,747 @@ color: #FFFFFF;
 
 }
 
+/* opna  slaice.............................................................. */
+.slaice{
+    padding: 20px;
+    background: #F9F5F2;
+}
 
+.WHY{
+    
+margin-top: 228px;
+text-align: center;
+font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 26px;
 
+color: #577F8E;
+}
+.why_hr{
+    margin-top: -15px;
+   margin-left: 530px;
+    width: 162.95px;
+height: 0px;
+border: 1px solid rgba(69, 90, 100, 0.5);
+}
+.We_Are{
+text-align: center;
+font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 900;
+font-size: 40px;
+line-height: 58px;
+color: rgba(23, 35, 39, 0.9);
 
+}
+/* slaice boi opan */
+.slaice_boi_1{
+    width: 100%;
+    margin-top: 106.39px;
+    
+}
+.a1{
+margin-left: 86.34px;
+}
+.Website{
+    margin-left: 50px;
+margin-top: 27px;
+font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 35px;
+color: rgba(23, 35, 39, 0.9);
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.Simply{
+    margin-left: 50px;
+font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 28px;
+color: rgba(23, 35, 39, 0.8);
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+.a22{
+    margin-top: -15px;
+    margin-left: 120px;
+}
+.support{
+    margin-top: 20px;
+    margin-left: 120px;
+    font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 35px;
+color: rgba(23, 35, 39, 0.9);
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.Simply_reach{
+    margin-left: 120px;
+    font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 28px;
+color: rgba(23, 35, 39, 0.8);
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+.i_con_j{
+    margin-top: -15px;
+    margin-left: 120px;
+    font-size: 80px;
+    color: deeppink;
+}
+.Wocommerce{
+    margin-left: 120px;
+    margin-top: 20px;
+    font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 35px;
+color: rgba(23, 35, 39, 0.9);
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.Simply_reach_out{
+    margin-left: 120px;
+    font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 28px;
+color: rgba(23, 35, 39, 0.8);
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+.slaice_icon_group{
+  margin-top: 102px;
+  padding-bottom: 20px;
+}
+.slaice_icon_group i{
+    margin-left: 15px;
+padding-left: 77px;
+font-size: 30px;
+}
+.tlc{
+    color: rgba(7, 182, 213, 0.9);
+}
+.wiii{
+    color:darkgreen;
+}
+.wor{
+    color: rgba(7, 182, 213, 0.9);
+}
+.reac{
+    color: rgba(7, 182, 213, 0.9);
 
+}
+.java{
+    color: #F7DF1E;
+}
+.gra{
+    color: rgba(7, 182, 213, 0.9);
 
+}
+.phhh{
+    color: #777BB3;
+}
+.boot{
+color: blue;
+}
+.cat{
+    color: #D63362;
+}
+/* castomaigation oan............................................................ */
+.castomaigition{
+    padding: 20px;
+    background: #E9F0EC;
+}
+.castomaigition_1{
+    width: 100%;
+}
+.chee{
+    margin-top: 156px;
+    font-size: 60px;
+    margin-left: 20px;
+}
+.two5{
+    
+font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 900;
+font-size: 60px;
+line-height: 87px;
+letter-spacing: 0.005em;
+color: #455A64;
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.Trusted_by{
+    font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 23px;
+color: #1F2F34;
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+.terr{
+    margin-left: -30px;
+}
+.bag{
+    margin-top: 150px;
+}
+.twok{
+    font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 900;
+font-size: 60px;
+line-height: 87px;
+letter-spacing: 0.005em;
+color: #455A64;
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.Years_of{
+    font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 23px;
+color: #1F2F34;
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+.terr2{
+    margin-top: 5px;
+    margin-left: 40px;
+}
+.analysis{
+    margin-top: 150px;
+    margin-left: 30px;
+}
+.eaitte{
+    font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 900;
+font-size: 60px;
+line-height: 87px;
+letter-spacing: 0.005em;
+color: #455A64;
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.Revenue{
+    font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 23px;
+color: #1F2F34;
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+.terr3{
+    margin-left: 60px;
+}
+.headphon{
+    margin-top: 150px;
+}
+.twint4{
+    font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 900;
+font-size: 60px;
+line-height: 87px;
+letter-spacing: 0.005em;
+color: #455A64;
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.Customar{
+    font-family: 'Zen Old Mincho';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 23px;
+    color: #1F2F34;
+    flex: none;
+    order: 1;
+    flex-grow: 0;    
+    
 
+}
+.terr4{
+    margin-left: 70px;
+}
+/* 222222222222222222222222222222222222222222 part */
+.Products{
+    font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 900;
+font-size: 24px;
+line-height: 35px;
+color: #577F8E;
+margin-top: 232px;
+margin-left: 81px;
+}
+.part_2_aa{
+    width: 100%;
+}
+.pro_hr{
+    margin-top: -20px;
+    width: 120px;
+    margin-left: 60px;
+}
+.part_2{
+    padding-bottom: 120px;
+}
+.Customize_and{
+    margin-left: 50px;
+font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 900;
+font-size: 40px;
+line-height: 28px;
+color: rgba(0, 0, 0, 0.9);
+}
+.From_subscriptions{
+    margin-left: 50px;
+    font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 30px;
+color: rgba(49, 71, 79, 0.8);
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.From_subscriptions_boi{
+    margin-left: 50px;
+    margin-top: 44px;
+    width: 160px;
+height: 41px;
+left: 84.49px;
+top: 7002.9px;
 
+background: rgba(186, 104, 200, 0.9);
+border-radius: 40px;
+}
+.Learn_More{
+    padding: 5px 30px;
+    font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 30px;
+color: rgba(250, 250, 250, 0.9);
 
+}
+.atat{
+    position: absolute;
+    margin-top: -40px;
+    margin-left: 110px;
+    color: white;
+}
 
+/* row4..... */
+.castomaijasion_boi_2{
+    margin-top: 200px;
+    width: 366.22px;
+height: 365.99px;
+border: 2px solid saddlebrown;
+border-radius: 50%;
+}
+.castomaijasion_boi_3{
+    margin-top: 30px;
+    margin-left: 28px;
+    width: 300.22px;
+height: 305.99px;
+border: 2px solid saddlebrown;
+border-radius: 50%;
+}
+.wort{
+    font-size: 120px;
+    margin-top: 80px;
+    margin-left: 80px;
+    color: #577F8E;
+}
+.word_p{
+    position: absolute;
+    margin-top: 30px;
+    margin-left: -230px;
+    font-size: 50px;
+    color: #07B6D5;
+    background-color: white;
+    border-radius: 20%;
+}
+.java_skip{
+    position: absolute;
+    margin-top: 220px;
+    margin-left: -230px;
+    font-size: 50px;
+    color: black;
+    background-color:yellow;
+    border-radius: 20%;
+}
+.tail{
+    position: absolute;
+    margin-top: -50px;
+    margin-left: -100px;
+    font-size: 50px;
+    color:white;
+    background-color: #07B6D5;;
+    border-radius: 20%;
+}
+.pola{
+    position: absolute;
+    margin-top: 290px;
+    margin-left: -80px;
+    font-size: 50px;
+    color:#07B6D5;
+    background-color:white;;
+    border-radius: 20%;
+}
+.reac_bo{
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 70px;
+    font-size: 50px;
+    color:white;
+    background-color: #07B6D5;
+    border-radius: 20%;
+}
+.barta{
+    position: absolute;
+    margin-top: 230px;
+    margin-left: 70px;
+    font-size: 50px;
+    color:white;
+    background-color: purple;
+    border-radius: 20%;
+}
 
+/* milar opan............................................. */
+.milar{
+    
+    width: 100%;
+    height: 669.51px;
+    background: #455A64;
+}
+.milar_boi_1{
+    width: 100%;
+}
+.milar_boi_2{
+margin-top: 204px;
+margin-left: 87px;
+    width: 50.4px;
+height: 52.41px;
+background: rgba(255, 255, 255, 0.9);
+border-radius: 8px;
+}
+.milar_boi_2 img{
+    padding: 7px 15px;
+}
+.Jonathan{
+    margin-top: -50px;
+    margin-left: 155px;
+    font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 29px;
+color: #FFFFFF;
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.Web_Developer{
+    margin-top: -15px;
+    margin-left: 155px;
+font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 23px;
+color: #FFFFFF;
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+.I_really{
+    margin-top: 19px;
+    margin-left: 87px;
+    font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 600;
+font-size: 28px;
+line-height: 36px;
+color: rgba(255, 255, 255, 0.9);
+}
+.Rectangle50{
+    margin-top: 137px;
+    width: 250.6px;
+height: 300.3px;
+}
+.ci_uu{
+position: absolute;
+font-size: 40px;
+margin-top: 250px;
+margin-left: -270px;
+cursor: pointer;
+}
+.Rectangle51{
+    margin-top: 255px;
+    width: 250.6px;
+height: 300.3px; 
+}
+.ci_ss{
+    position: absolute;
+    font-size: 40px;
+    margin-top: 390px;
+    margin-left: -270px;
+    cursor: pointer; 
+}
+/* pepol opan/.............................................................. */
+.pepol{
+    padding: 20px;
+    background: #F9F5F2;
+}
+.People_are{
+    margin-top: 129px;
+    text-align: center;
+    font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 130%;
+letter-spacing: 0.005em;
+color: rgba(23, 35, 39, 0.9);
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.pepol_ro_1{
+    width: 100%;
+}
+.pepol_boi_2{
+    margin-left: 10px;
+    width: 383px;
+    height: 269px;
+    background: #FFFFFF;
+    border-radius: 16px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+.In_the{
+  padding-top: 24px;
+  padding-left: 24px;
+    font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 28px;
+letter-spacing: 0.005em;
+color: rgba(31, 47, 52, 0.8);
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.Ellipse15{
+    margin-top: 16px;
+    margin-left:24px;
+}
+.Ronald_Richards{
+    margin-top: -60px;
+    margin-left: 90px;
+    font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 28px;
+letter-spacing: 0.005em;
+color: rgba(0, 0, 0, 0.9);
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.Theresa_Webb{
+    margin-top: -10px;
+   margin-left: 90px;
+    font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+letter-spacing: 0.005em;
+color: rgba(0, 0, 0, 0.9);
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+.stardd{
+    margin-top: 64px;
+   margin-left: 530px;
+}
+.Trustoilot{
+    margin-top: -30px;
+    margin-left: 570px;
+    font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 29px;
+letter-spacing: 0.005em;
+color: rgba(69, 90, 100, 0.9);
 
+}
+.img_154{
+    margin-left: 500px;
+}
+.TrustScore{
+    margin-top: 20px;
+    margin-left: 500px;
+    font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+letter-spacing: 0.005em;
 
+color: rgba(69, 90, 100, 0.9);
 
+}
+/* faq opan.............................................................................. */
+.faq{
+    width:100%;
+height:700px;
+background: #E9F0EC;
+}
+.faq_boi_1{
+    width: 100%;
+}
+.hhh{
+    margin-left: 30px;
+    margin-top: 70px;
+    height: 520px;
+}
+.FAQ{
+    margin-top: 162px;
+    font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 900;
+font-size: 24px;
+line-height: 30px;
+color: rgba(0, 0, 0, 0.9);
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.Answers{
+    font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 54px;
+color: rgba(23, 35, 39, 0.9);
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+.how{
+    font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 30px;
+color: rgba(23, 35, 39, 0.9);
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.Contact{
+    font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 26px;
+color: rgba(31, 47, 52, 0.9);
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+.dddee{
+    border: none;
+ background-color: #E9F0EC;;
+ 
+font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 30px;
+color: rgba(23, 35, 39, 0.9);
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.jat{
+    margin-top: 40px;
+}
+/* latest tring  opan////////////////////////////////////////////////////////////////////////////// */
+.Lateset_Trending{
+    font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 54px;
+text-align: center;
+color: rgba(23, 35, 39, 0.9);
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.Your_industry{
+    font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
 
+text-align: center;
 
+color: rgba(31, 47, 52, 0.8);
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+flex: none;
+order: 1;
+flex-grow: 0;
+}
 
 
 

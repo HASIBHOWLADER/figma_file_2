@@ -391,18 +391,349 @@ color: rgba(31, 47, 52, 0.8);
         margin-top: 215px;
     
     }
+    /* opan slaice................................................................. */
+    .slaice{
+        padding: 20px;
+        background: #F9F5F2;
+    }
     
+    .WHY{
+        
+    margin-top: 228px;
+    text-align: center;
+    font-family: 'Zen Old Mincho';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 26px;
     
+    color: #577F8E;
+    }
+    .why_hr{
+        position: absolute;
+        margin-left: 200px;
+    }
+    .We_Are{
+    text-align: center;
+    font-family: 'Zen Old Mincho';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 58px;
+    color: rgba(23, 35, 39, 0.9);
     
+    }
+    /* slaice boi opan */
+    .slaice_boi_1{
+        width: 100%;
+        margin-top: 106.39px;
+        
+    }
+    .a1{
+    margin-left: 86.34px;
+    }
+    .Website{
+        margin-left: 50px;
+    margin-top: 27px;
+    font-family: 'Zen Old Mincho';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 35px;
+    color: rgba(23, 35, 39, 0.9);
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    }
+    .Simply{
+        margin-left: 50px;
+    font-family: 'Zen Old Mincho';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 28px;
+    color: rgba(23, 35, 39, 0.8);
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    }
+    .a22{
+        margin-top: -15px;
+        margin-left: 120px;
+    }
+    .support{
+        margin-top: 20px;
+        margin-left: 120px;
+        font-family: 'Zen Old Mincho';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 35px;
+    color: rgba(23, 35, 39, 0.9);
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    }
+    .Simply_reach{
+        margin-left: 120px;
+        font-family: 'Zen Old Mincho';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 28px;
+    color: rgba(23, 35, 39, 0.8);
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    }
+    .i_con_j{
+        margin-top: -15px;
+        margin-left: 120px;
+        font-size: 80px;
+        color: deeppink;
+    }
+    .Wocommerce{
+        margin-left: 120px;
+        margin-top: 20px;
+        font-family: 'Zen Old Mincho';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 35px;
+    color: rgba(23, 35, 39, 0.9);
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    }
+    .Simply_reach_out{
+        margin-left: 120px;
+        font-family: 'Zen Old Mincho';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 28px;
+    color: rgba(23, 35, 39, 0.8);
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    }
+    .slaice_icon_group{
+      margin-top: 102px;
+      padding-bottom: 20px;
+      margin-left: 30px;
+    }
+    .slaice_icon_group i{
+        margin-left: 55px;
+ padding: 25px;
+    font-size: 30px;
+    }
+    .tlc{
+        color: rgba(7, 182, 213, 0.9);
+    }
+    .wiii{
+        color:darkgreen;
+    }
+    .wor{
+        color: rgba(7, 182, 213, 0.9);
+    }
+    .reac{
+        color: rgba(7, 182, 213, 0.9);
     
+    }
+    .java{
+        color: #F7DF1E;
+    }
+    .gra{
+        color: rgba(7, 182, 213, 0.9);
     
+    }
+    .phhh{
+        color: #777BB3;
+    }
+    .boot{
+    color: blue;
+    }
+    .cat{
+        color: #D63362;
+    }
+    .ktr{
+        margin-left: 90px;
+    }
+    .ktr2{
+        margin-top: 120px;
+    }
+    .ktr3{
+        margin-top: 120px;
+    }
     
+    /* castomaigation opan.................................................................. */
+    .terr{
+        margin-left: 150px;
+    }
+    .terr2{
+        margin-left: 150px;
+    }
+    .terr3{
+        margin-left: 150px;
+    }
+    .terr4{
+        margin-left: 150px;
+    }
+    /* 222222222222222222222222222222222222222222 part */
+    .kala{
+        margin-left: 120px;
+    }
+ 
+.kala_2{
+    margin-left: 120px;
 
+}
+/* popular opan......... */
+/* pepol opan/.............................................................. */
+.pepol{
+    padding: 20px;
+    background: #F9F5F2;
+}
+.People_are{
+    margin-top: 789px;
+    text-align: center;
+    font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 130%;
+letter-spacing: 0.005em;
+color: rgba(23, 35, 39, 0.9);
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.pepol_ro_1{
+    width: 100%;
+}
+.pepol_boi_2{
+margin-left: 50px;
+margin-bottom: 20px;
+    width: 343px;
+    height: 269px;
+    background: #FFFFFF;
+    border-radius: 16px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+.In_the{
+  padding-top: 24px;
+  padding-left: 24px;
+    font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 28px;
+letter-spacing: 0.005em;
+color: rgba(31, 47, 52, 0.8);
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.Ellipse15{
+    margin-top: 16px;
+    margin-left:24px;
+}
+.Ronald_Richards{
+    margin-top: -60px;
+    margin-left: 90px;
+    font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 28px;
+letter-spacing: 0.005em;
+color: rgba(0, 0, 0, 0.9);
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.Theresa_Webb{
+    margin-top: -10px;
+   margin-left: 90px;
+    font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+letter-spacing: 0.005em;
+color: rgba(0, 0, 0, 0.9);
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+.stardd{
+    margin-top: 64px;
+   margin-left: 530px;
+}
+.Trustoilot{
+    margin-top: -30px;
+    margin-left: 570px;
+    font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 29px;
+letter-spacing: 0.005em;
+color: rgba(69, 90, 100, 0.9);
 
+}
+.img_154{
+    margin-left: 500px;
+}
+.TrustScore{
+    margin-top: 20px;
+    margin-left: 500px;
+    font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+letter-spacing: 0.005em;
 
+color: rgba(69, 90, 100, 0.9);
 
+}
+.all_bb{
+    margin-left: -320px;
+}
+/* latest opan........... */
+.Lateset_Trending{
+    font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 54px;
+text-align: center;
+color: rgba(23, 35, 39, 0.9);
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.Your_industry{
+    font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
 
+text-align: center;
 
+color: rgba(31, 47, 52, 0.8);
+
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+.latest_trinh{
+    margin-top: 820px;
+}
 
 
 
