@@ -11,7 +11,7 @@ background: #182327;;
 padding-bottom: 33.13px;
 }
 li.nav-item {
-    margin: 10px;
+    margin: 2px;
 }
 .navbar-brand{
 width: 163.8px;
@@ -33,7 +33,6 @@ font-style: normal;
 font-weight: 700;
 font-size: 20px;
 line-height: 29px;
-/* identical to box height */
 margin-left: 30px;
 padding: 10px;
 color: rgba(255, 255, 255, 0.9);
@@ -45,7 +44,6 @@ font-style: normal;
 font-weight: 700;
 font-size: 20px;
 line-height: 29px;
-/* identical to box height */
 color: rgba(250, 250, 250, 0.9);
 }
 .a1st_hr{

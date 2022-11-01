@@ -18,6 +18,9 @@
         background-color: #D8EBEE;
         padding: 20px;
      }
+     li.nav-item {
+        margin: 2px;
+    }
   .service_boi1{
     padding-left: 30px;
   }
