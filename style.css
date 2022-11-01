@@ -1706,10 +1706,395 @@ flex: none;
 order: 1;
 flex-grow: 0;
 }
+/* row opan.............................................................. */
+.latest_trinh{
+    background: #F9F5F2;
+}
+
+.latest_Boi_roeis{
+    width: 100%;
+}
+.Rectangle41{
+    margin-top: 86px;
+    width: 478px;
+height: 373px;
+border-radius: 16px;
+margin-left: 120px;
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.voice_s{
+    margin-top: 126px;
+    margin-left: 48px;
+    font-size: 35px;
+    color: #200E32;
+}
+.Aslam{
+    margin-top: -33px;
+    margin-left: 90px;
+font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+color: #577F8E;
+
+}
+.cal_boi{
+    color: #200E32;
+    font-size: 35px;
+position: absolute;
+margin-left: 210px;
+margin-top: -45px;
+}
+
+.june{
+    margin-left: 250px;
+margin-top: -38px;
+    color: #200E32;
+    font-family: 'Zen Old Mincho';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #577F8E;
+}
+.Elevate{
+    margin-left: 50px;
+    font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 40px;
+color: rgba(23, 35, 39, 0.9);
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.The_future{
+    margin-left: 50px;
+    font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+color: rgba(31, 47, 52, 0.8);
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+.Read_More{
+    margin-top: 24px;
+    margin-left: 50px;
+    font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 24px;
+color: #BA68C8;
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.rigt{
+    position: absolute;
+    margin-top: -32px;
+    margin-left: 130px;
+    color: #BA68C8;
+}
 
 
+/* 2nd row opan................................................ */
+.two_row_boI_i{
+    width: 100%;
+}
+.img_150{
+    margin-top: 78px;
+    margin-left: 70px;
+    width: 300px;
+height: 200px;
+border-radius: 4px;
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.voi_2{
+    margin-top: 19px;
+    font-size: 25px;
+    margin-left: 60px;
+    color: #577F8E;
+}
+.Aslam_Uddin2{
+    margin-top: -25px;
+    margin-left: 85px;
+font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+color: #577F8E;
+}
+.cal_2_l{
+    position: absolute;
+    margin-top: -35px;
+    margin-left: 180px;
+    color: #577F8E;
+
+}
+.trbh{
+    margin-top: -40px;
+    margin-left: 200px;
+    font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+color: #577F8E;
+
+}
+.Elevate{
+   
+font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 32px;
+color: rgba(23, 35, 39, 0.9);
+
+}
+.Read_More_3{
+    margin-left: 50px;
+    font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 24px;
+color: #BA68C8;
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.hthh{
+    position:absolute ;
+    color: #BA68C8;
+margin-top: -32px;
+    margin-left: 130px;
+}
+.explor_2{
+    margin-top: 39px;
+  margin-left: 450px;
+    width: 327.33px;
+    height: 71.77px;
+    background: rgba(186, 104, 200, 0.9);
+    border-radius: 40px;
+}
+.Explore_All_Articles{
+    font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 28px;
+color: rgba(255, 255, 255, 0.9);
+padding: 25px 60px;
+}
+.two_r_k{
+    margin-left: -30px;
+}
+.two_r_k_2{
+    margin-left: -30px;
+}
+.two_r_k_3{
+    margin-left: -30px;
+}
+/* footer opan...................................... */
+.footer{
+    width:100%;
+height:400px;
+background: #E9F0EC;
+}
+.footer_2{
+    width:100%;
+height: 618.45px;
+background: #182327;
+}
+.footer_2_r{
+    width: 100%;
+}
+.logo_2{
+    margin-top: 211px;
+    margin-left: 121px;
+}
+.Subscribe_2{
+    margin-top: 10px;
+    margin-left: 121px;
+font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 58px;
+
+color: rgba(255, 255, 255, 0.9);
+
+}
+.input_te{
+    width: 375.9px;
+height: 59.85px;
+left: 121.8px;
+top: 11713.65px;
+margin-left: 121px;
+border: 1px solid rgba(255, 255, 255, 0.12);
+border-radius: 50px;
+font-size: 30px;
+text-transform: uppercase;
+background-color: #182327;;
+color: white;
+}
 
 
+.gtgt{
+    margin-left: 110px;
+    margin-top: 84px;
+    font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 24px;
+color: #BDBDBD;
+
+mix-blend-mode: normal;
+}
+.sentd{
+    margin-top: -50px;
+ position: absolute;
+    margin-left: 390px;
+    width: 88.2px;
+    height: 43.05px;
+    background-color: #07B6D5;
+    border-radius: 50px;
+    cursor: pointer;
+}
+.sentd p{
+    font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+padding: 9px 25px;
+color: #FFFFFF;
+
+}
+
+.Company{
+    margin-left: 30px;
+    margin-top: 211px;
+    font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 26px;
+color: rgba(255, 255, 255, 0.9);
+flex: none;
+order: 0;
+flex-grow: 0;
+cursor: pointer;
+}
+ul li{
+    padding: 15px;
+    font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 38px;
+color: rgba(255, 255, 255, 0.9);
+flex: none;
+order: 1;
+list-style: none;
+}
+ul li a{
+ text-decoration: none; 
+ color: white;
+}
+.icon_footer{
+    margin-top: -40px;
+    text-align: right;
+    margin-left: -60px;
+}
+.icon_footer i{
+    color:white;
+    padding: 10px;
+    font-size: 20px;
+    cursor: pointer;
+}
+.pp1{
+margin-left: -50px;
+}
+.pp_2{
+    margin-left: -40px;
+}
+.pp_3{
+    margin-left: -40px;
+}
+.love{
+    margin-left: 140px;
+    margin-top: -300px;
+    position: absolute;
+    width:80%;
+height: 469.35px;
+background: #F1B243;
+border-radius: 45px;
+}
+.WE_ARE{
+    margin-top: 104px;
+    text-align: center;
+    font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 23px;
+letter-spacing: 4px;
+color: rgba(18, 50, 68, 0.9);
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.We_always{
+    font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 700;
+font-size: 50px;
+line-height: 62px;
+
+text-align: center;
+
+color: rgba(18, 50, 68, 0.9);
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+.love_boi_1{
+    margin-top: 48px;
+  margin-left: 400px;
+    width: 171px;
+height: 64px;
+background: rgba(18, 50, 68, 0.9);
+border-radius: 16px;
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+.love_boi_1 p{
+    padding: 20px 40px;
+    font-family: 'Zen Old Mincho';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 24px;
+color: rgba(255, 255, 255, 0.9);
+flex: none;
+order: 0;
+flex-grow: 0;
+}
 
 
 
